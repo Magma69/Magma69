@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <sep></sep>
+  <category name="Control" colour="#a55b80">
+    <block type="console_log">
+      <field name="LOG">Hello World</field>
+    </block>
+    <block type="let_block">
+      <field name="VAR"></field>
+    </block>
+    <block type="update_var">
+      <field name="OLD"></field>
+      <field name="NEW"></field>
+    </block>
+    <block type="const">
+      <field name="NAME"></field>
+    </block>
+  </category>
+</xml>

@@ -1,0 +1,5 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <block type="message_context">
+    <field name="CONTENT">I love Cats</field>
+  </block>
+</xml>

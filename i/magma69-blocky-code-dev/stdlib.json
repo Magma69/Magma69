@@ -1,0 +1,19 @@
+{
+  "name": "Magma69/blocky-code",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/create/prefix/ping.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!ping"
+      }
+    },
+    "functions/events/discord/message/create/prefix/verify.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!verify"
+      }
+    }
+  }
+}
